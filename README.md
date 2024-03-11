@@ -1,4 +1,6 @@
-# 禁漫天堂下载器
+[
+  "https://18comic.vip/album/180459"
+]# 禁漫天堂下载器
 
 使用GitHub Actions的禁漫天堂爬虫🤡
 
